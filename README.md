@@ -1,7 +1,7 @@
 # biosensor
 ## Analysis of smartphone and IoT biosensor in medical field
 
-### This software was written in BASH with R library dependencies to analyze data from biosenor and smartphone IoT used in medical field.
+### This software was written in BASH with R library dependencies to analyze data from biosensor and smartphone IoT used in medical field.
 ***
 ### Usage of the sorftware :
 1. install R-base in your linux, example under ubuntu : sudo apt-get install r-base
